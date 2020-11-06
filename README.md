@@ -9,7 +9,7 @@ Data for this submission (RML2016.10a.tar.bz2) can be found at: https://www.deep
 
 The following code will execute an example experiment training and testing across all SNR levels: (be sure to include the path to the dataset)
 ```
-python3 run.py --data_directory path_to_data_here --train_SNRs -20 18 --test_SNRs -20 18 --arch Complex
+python3 run.py --data_directory path_to_data --train_SNRs -20 18 --test_SNRs -20 18 --arch Complex
 ```
 The code automatically saves and stores results into folders in the local directory. 
 
