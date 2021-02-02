@@ -1,6 +1,6 @@
 # High_Capacity_Complex_Networks
 ## About
-Submitted to ICASSP 2021, "HIGH-CAPACITY COMPLEX CONVOLUTIONAL NEURAL NETWORKS FOR I/Q MODULATION CLASSIFICATION".
+Code for, "HIGH-CAPACITY COMPLEX CONVOLUTIONAL NEURAL NETWORKS FOR I/Q MODULATION CLASSIFICATION".
 
 ## Data
 Data for this submission (RML2016.10a.tar.bz2) can be found at: https://www.deepsig.io/datasets. To ensure proper execution of the code, be sure the data is saved as 'RML2016.10a_dict.pkl' or 'RML2016.10a_dict.dat'.
